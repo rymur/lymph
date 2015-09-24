@@ -1,0 +1,28 @@
+{
+  "name": "lymph-client",
+  "description": "Starting",
+  "version": "0.2.0",
+  "homepage": "",
+  "author": {
+    "name": "Erick Fleming",
+    "email": "erick@sudogs.com"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "lymph-utils": ""
+  },
+  "devDependencies": {
+    "lymph-test": ""
+  },
+  "main": "./lib/index.js",
+  "readme": "Starting\n",
+  "readmeFilename": "readme.md",
+  "_id": "lymph-client@0.2.0",
+  "dist": {
+    "shasum": "eed286fd269bb94a6c0b46e292cf6095d4058014"
+  },
+  "_from": "lymph-client@0.2.x",
+  "_resolved": "https://registry.npmjs.org/lymph-client/-/lymph-client-0.2.0.tgz"
+}

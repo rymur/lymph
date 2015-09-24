@@ -1,0 +1,24 @@
+{
+  "name": "lymph-test",
+  "description": "initial readme",
+  "version": "0.2.0",
+  "homepage": "",
+  "author": {
+    "name": "Erick Fleming",
+    "email": "erick@sudogs.com"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "./lib/index.js",
+  "readme": "initial readme\n",
+  "readmeFilename": "readme.md",
+  "_id": "lymph-test@0.2.0",
+  "dist": {
+    "shasum": "3cbb6d7691c5cf524a18257bcc0b2d2affe8a0ef"
+  },
+  "_from": "lymph-test@",
+  "_resolved": "https://registry.npmjs.org/lymph-test/-/lymph-test-0.2.0.tgz"
+}

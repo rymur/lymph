@@ -1,0 +1,26 @@
+{
+  "name": "lymph-utils",
+  "description": "Utilities for lymph projects",
+  "version": "0.2.1",
+  "homepage": "",
+  "author": {
+    "name": "Erick Fleming",
+    "email": "erick@sudogs.com"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lymph-test": ""
+  },
+  "main": "./lib/index.js",
+  "readme": "Utilities for lymph projects\n",
+  "readmeFilename": "readme.md",
+  "_id": "lymph-utils@0.2.1",
+  "dist": {
+    "shasum": "7f409d50fdf8892d793f13b3a5eb14bdd31dc26f"
+  },
+  "_from": "lymph-utils@0.2.x",
+  "_resolved": "https://registry.npmjs.org/lymph-utils/-/lymph-utils-0.2.1.tgz"
+}

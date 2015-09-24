@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+var buildServer = require("../lib/index").server
+
+buildServer.run(appHandler, 0)
+
+function appHandler (req, res) {
+    console.log("app handler invoked")
+}
+

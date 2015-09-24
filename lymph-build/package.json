@@ -1,0 +1,38 @@
+{
+  "name": "lymph-build",
+  "description": "build system for lymph projects",
+  "version": "0.2.0",
+  "homepage": "",
+  "author": {
+    "name": "Erick Fleming",
+    "email": "erick@sudogs.com"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "browserify": "",
+    "uglify-js": "",
+    "send": "",
+    "node-watch": "",
+    "router": "",
+    "lymph-utils": "",
+    "less": ""
+  },
+  "devDependencies": {
+    "tape": "",
+    "lymph-test": ""
+  },
+  "bin": {
+    "lymph-build": "./bin/lymph-build"
+  },
+  "main": "./lib/index.js",
+  "readme": "initial readme\n",
+  "readmeFilename": "readme.md",
+  "_id": "lymph-build@0.2.0",
+  "dist": {
+    "shasum": "c23434c09d9c78e0a0eb62b0287c6c3fe808ff18"
+  },
+  "_from": "lymph-build@",
+  "_resolved": "https://registry.npmjs.org/lymph-build/-/lymph-build-0.2.0.tgz"
+}

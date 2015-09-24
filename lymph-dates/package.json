@@ -1,0 +1,28 @@
+{
+  "name": "lymph-dates",
+  "description": "initial readme",
+  "version": "0.2.0",
+  "homepage": "",
+  "author": {
+    "name": "Erick Fleming",
+    "email": "erick@sudogs.com"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "lymph-utils": ""
+  },
+  "devDependencies": {
+    "lymph-test": ""
+  },
+  "main": "./lib/index.js",
+  "readme": "initial readme\n",
+  "readmeFilename": "readme.md",
+  "_id": "lymph-dates@0.2.0",
+  "dist": {
+    "shasum": "f4af6e299b8867ed5ab218aad1aa7b875bf379fd"
+  },
+  "_from": "lymph-dates@0.2.x",
+  "_resolved": "https://registry.npmjs.org/lymph-dates/-/lymph-dates-0.2.0.tgz"
+}
